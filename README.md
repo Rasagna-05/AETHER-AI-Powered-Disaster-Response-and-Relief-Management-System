@@ -2,6 +2,7 @@
 
 AETHER is a React-based single-page tactical command dashboard designed for emergency response operations. Built with React, Vite, and Tailwind CSS, it is optimized for high-contrast visibility and offline resilience, enabling search-and-rescue teams to coordinate actions under compromised network conditions (mesh network topology).
 
+Live Link : https://aether-ai-powered-disaster-response.vercel.app
 ---
 
 ## 🧭 The Operational Narrative Flow
